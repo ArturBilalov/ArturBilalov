@@ -1,9 +1,17 @@
-## My name is Arur Bilalov and I'am an iOS-developer 
+## My name is Arur Bilalov and I'am an iOS-developer
+### Меня зовут Артур Билалов и я - iOS-разработчик  
 
 ![Header](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/logo.jpeg) 
 
 ### About me
+Образование: Университет НТИ 2035, диплом о профессиональной переподготовке
+Специальность - iOS-разработчик
+![Diplom1](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/diplom1.jpeg)
+![Diplom2](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/diplom2.jpeg)
+![Sertifikat](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/sertifikat2.png)
 
+
+### technology stack
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/artur_bilalov)
