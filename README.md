@@ -10,7 +10,8 @@ about me
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/artur_bilalov)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000??style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurbilalov)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000??style=for-the-badge&logo=WhatsApp)](https://wa.me/79127699059)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000??style=for-the-badge&logo=instagram)](https://www.instagram.com/arthurbilalov)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-000000??style=for-the-badge&logo=VK)](https://vk.com/id_otto)
 
 
