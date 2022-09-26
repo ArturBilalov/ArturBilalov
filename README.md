@@ -11,7 +11,19 @@
 ![Sertifikat](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/sertifikat2.png)
 
 
-### technology stack
+### Stack of Technology
+ООП,
+iOS,
+Xcode,
+UiKit,
+SwiftUI,
+Git,
+JSON,
+Solid,
+паттерны проектирования: Singleton/Decorator/ Observer/Facade/Strategy/Factory,
+для сетевых запросов использую URLSession,
+архитектурные паттерны: MVC, MVVM+Combine
+
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/artur_bilalov)
