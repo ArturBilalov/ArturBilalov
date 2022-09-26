@@ -8,5 +8,7 @@ about me
 
 фото
 
-контакты
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/artur_bilalov)
+
 
