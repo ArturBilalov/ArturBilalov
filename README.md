@@ -1,6 +1,6 @@
 ## My name is Arur Bilalov and I'am an iOS-developer 
 
-![Header](hhttps://github.com/ArturBilalov/ArturBilalov/blob/main/assets/logo.jpeg) 
+![Header](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/logo.jpeg) 
 
 ### About me
 
