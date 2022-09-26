@@ -1,6 +1,6 @@
 ## My name is Arur Bilalov and I'am an iOS-developer 
 
-![Header](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/swift-programming-language.png) 
+![Header](hhttps://github.com/ArturBilalov/ArturBilalov/blob/main/assets/logo.jpeg) 
 
 ### About me
 
