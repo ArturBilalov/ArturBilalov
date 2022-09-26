@@ -1,4 +1,4 @@
-## My name is Arur Bilalov and I'am an iOS-developer
+## My name is Artur Bilalov and I'am an iOS-developer
 ### Меня зовут Артур Билалов и я - iOS-разработчик  
 
 ![Header](https://github.com/ArturBilalov/ArturBilalov/blob/main/assets/logo.jpeg) 
